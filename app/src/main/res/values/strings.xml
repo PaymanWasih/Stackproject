@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">STACKoverview</string>
+    <string name="pop_btn_name">pop</string>
+    <string name="push_btn_name">push</string>
+    <string name="before_clicking">Before Clicking</string>
+
+</resources>
